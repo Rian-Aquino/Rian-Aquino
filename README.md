@@ -9,21 +9,24 @@
 <table align="center">
   <tr>
     
-  <td colspan="2">
+  <td colspan="5">
     <h2 align="center">💡 Sobre Mim</h2>
   </td>
   </tr>
       <tr>
-        <td align="center"><p></p>🤠 Meu nome é<br><strong>Rian Gustavo Quintanilha de Aquino</strong>;<p></p></td>
-        <td align="center"><p></p>🍀 Tenho 19 anos, sou desenvolvedor Fullstack;<p></p></td>
-      </tr>
-      <tr>
-        <td align="center"><p></p>👨‍💻 Sou técnico de Informática para Internet,<br>e estou cursando Análise e Desenvolvimento de Sistemas;<p></p></td>
-        <td align="center"><p></p>🔎 Em busca da<br>primeira oportunidade no mercado.<p></p></td>
+        <td></td>
+        <td></td>
+        <td align="center">
+          <p></p>
+            Meu nome é<strong>Rian Gustavo Quintanilha de Aquino</strong>.  Tenho 19 anos, sou desenvolvedor Frontend com interesse em Fullstack. Técnico de Informática para Internet, e estou cursando Análise e Desenvolvimento de Sistemas. E estou em busca da primeira oportunidade no mercado.
+          <p></p>
+        </td>
+        <td></td>
+        <td></td>
       </tr>
       
   <tr>
-        <td colspan="2" align="center">
+        <td colspan="5" align="center">
           <p></p>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rian-aquino&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120"/>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=rian-aquino&theme=tokyonight&hide_border=false" height="120"/>
