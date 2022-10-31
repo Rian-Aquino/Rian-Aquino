@@ -18,7 +18,7 @@
         <td></td>
         <td align="center">
           <p></p>
-            Meu nome é<strong>Rian Gustavo Quintanilha de Aquino</strong>.  Tenho 19 anos, sou desenvolvedor Frontend com interesse em Fullstack. Técnico de Informática para Internet, e estou cursando Análise e Desenvolvimento de Sistemas. E estou em busca da primeira oportunidade no mercado.
+            Meu nome é <strong>Rian Gustavo Quintanilha de Aquino</strong>.  Tenho 19 anos, sou desenvolvedor Frontend com interesse em Fullstack. Técnico de Informática para Internet, e estou cursando Análise e Desenvolvimento de Sistemas. E estou em busca da primeira oportunidade no mercado.
           <p></p>
         </td>
         <td></td>
