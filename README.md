@@ -3,7 +3,8 @@
 <h3 align="center">
   <img src="https://i.imgur.com/HC6NlFN.gif" />
   <p><p/>
-  <a href="https://linkedin.com/in/Rian-Aquino"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/Rian-Aquino"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://dcbadge.vercel.app/api/shield/246702950708150273"/>
 </h3>
 
 <table align="center">
@@ -18,7 +19,7 @@
         <td></td>
         <td align="center">
           <p></p>
-            Meu nome é <strong>Rian Gustavo Quintanilha de Aquino</strong>.  Tenho 19 anos, sou desenvolvedor Frontend com interesse em Fullstack. Técnico de Informática para Internet, e estou cursando Análise e Desenvolvimento de Sistemas. <br><br>🔎 Em busca da primeira oportunidade no mercado.
+            Meu nome é <strong>Rian Gustavo Quintanilha de Aquino</strong>.  Tenho 19 anos, sou desenvolvedor FullStack Trainee na FCamara. Técnico de Informática para Internet, e estou cursando Análise e Desenvolvimento de Sistemas. <br>Me considero uma pessoa criativa mesmo prefirindo exatas, e curto passar meu tempo jogando online, acompanhando eSports e assistindo séries/animes 😃🌹
           <p></p>
         </td>
         <td></td>
